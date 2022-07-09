@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Myself Bhaskar Wary from Assam, India.
-I am currently pursuing B.Tech in Computer Science and Engineering from NIT Silchar. 
+- I am currently pursuing B.Tech in Computer Science and Engineering from NIT Silchar. 
 
 - 🌱 I’m currently learning Android Development.
 
