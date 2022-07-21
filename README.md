@@ -14,6 +14,19 @@
 
 <br>
 
+### 🌐 Connect with me: 
+
+[![website](./img/twitter-light.svg)](https://twitter.com/WaryBhaskar#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/WaryBhaskar#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bhaskar-wary-50586a1b3/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bhaskar-wary-50586a1b3/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/bhaskar.wary.100/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/bhaskar.wary.100/#gh-dark-mode-only)
+
+<br>
+
 ### 🔨 Languages and Tools:
 
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
