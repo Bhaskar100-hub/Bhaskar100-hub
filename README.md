@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://dev.to/@warybhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@warybhaskar" height="30" width="40" /></a>
 <a href="https://twitter.com/@warybhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@warybhaskar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhaskar wary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar wary" height="30" width="40" /></a>
-<a href="https://fb.com/bhaskar wary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhaskar wary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhaskar-wary-50586a1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar wary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bhaskar.wary.100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhaskar wary" height="30" width="40" /></a>
 <a href="https://instagram.com/bhaskar.wary.100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaskar.wary.100" height="30" width="40" /></a>
 </p>
 
