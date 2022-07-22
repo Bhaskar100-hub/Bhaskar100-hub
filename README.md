@@ -16,15 +16,13 @@
 
 ### 🌐 Connect with me: 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/WaryBhaskar#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/WaryBhaskar#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/bhaskar-wary-50586a1b3/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bhaskar-wary-50586a1b3/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bhaskar-wary-50586a1b3/#gh-dark-mode-only)
+<a href="https://www.instagram.com/bhaskar.wary.100/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/bhaskar.wary.100/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/bhaskar.wary.100/#gh-dark-mode-only)
+<a href="https://twitter.com/WaryBhaskar"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
+
 
 <br>
 
