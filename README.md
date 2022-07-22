@@ -18,12 +18,13 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/WaryBhaskar#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/WaryBhaskar#gh-dark-mode-only)
-&nbsp;&nbsp;
+&#8287;&#8287;&#8287;&#8287;&#8287;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bhaskar-wary-50586a1b3/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bhaskar-wary-50586a1b3/#gh-dark-mode-only)
-&nbsp;&nbsp;
+&#8287;&#8287;&#8287;&#8287;&#8287;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/bhaskar.wary.100/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/bhaskar.wary.100/#gh-dark-mode-only)
+&#8287;&#8287;&#8287;&#8287;&#8287;
 
 <br>
 
